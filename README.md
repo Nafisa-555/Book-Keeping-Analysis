@@ -6,7 +6,7 @@ This repository contains the dataset and Python code I used for Task 1 of my Bus
 
 bookkeeping_companies.csv ->Dataset I prepared with competitor details (founded year, funding, users, features, etc.).
 
-analysis.py → Python script using Pandas and Matplotlib to generate graphs.
+book_keeping.py → Python script using Pandas and Matplotlib to generate graphs.
 
 ## Analysis Performed
 
