@@ -1,4 +1,4 @@
-# Business Analytics – Competitor Research 
+# Business Analytics – Competitor Research(A case study).
 
 ## Contents
 
