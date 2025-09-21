@@ -1,6 +1,4 @@
-# Business Analytics – Competitor Research (Internship Task)
-
-This repository contains the dataset and Python code I used for Task 1 of my Business Analytics internship assignment at Meru Technosoft Pvt. Ltd. (Hellobooks.ai).
+# Business Analytics – Competitor Research 
 
 ## Contents
 
